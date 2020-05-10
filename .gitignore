@@ -1,0 +1,4 @@
+*.dll
+*.json
+*.txt
+/__pacache__/
